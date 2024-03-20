@@ -1,4 +1,6 @@
 package lt.julija.page.preply;
 
-public class AccountLoginPage {
+import lt.julija.page.PageBase;
+
+public class AccountLoginPage extends PageBase {
 }
